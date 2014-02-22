@@ -25,6 +25,11 @@ http://developer.mixi.co.jp/about-platform/com/developer/
 
 https://sap.mixi.jp/home.pl
 
+(Androidアプリで利用する場合、パッケージ署名ハッシュ値が必要です)
+
+パッケージ署名ハッシュ値の取得方法について:  http://developer.mixi.co.jp/connect/mixi_graph_api/android/register-application/
+
+
 ## SDKを使う
 
 ### SDK Document for iOS
